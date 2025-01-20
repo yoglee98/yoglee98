@@ -22,3 +22,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoglee98&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoglee98)](https://github.com/anuraghazra/github-readme-stats)
